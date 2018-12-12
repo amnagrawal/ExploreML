@@ -1,0 +1,5 @@
+*.dat
+
+Datasets/*
+*.ipynb_checkpoints*
+
