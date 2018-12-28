@@ -2,4 +2,5 @@
 
 Datasets/*
 *.ipynb_checkpoints*
-
+__pycache__/*
+*.pkl
