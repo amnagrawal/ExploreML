@@ -7,3 +7,4 @@ Datasets/*
 *TBlogs/*
 */TBlogs/*
 *.h5
+*.npz
